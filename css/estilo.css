@@ -13,10 +13,26 @@ body {
     display: block;
     margin: auto;}
 
+
+.subtitulo {text-align: center;
+  background-color: #FBFE0B ;
+          font-size: large;     }
+
 .ImagenesInicio {display: flex;
   justify-content: space-between;
 align-content: flex-start;}
 .ImagenesInicio img {width: 650px ; height: 500px ;}
+
+.descripcion {text-align: center;
+        background-color: #FBFE0B ;
+          font-size: xx-large;     }
+
+.somos {text-align: center;
+  background-color: #FFFFFF ;
+       font-size: x-large; }
+
+.envio      {text-align: center;
+       font-size: x-large; }
 
 .ContenedoresBotones {display: flex;
   justify-content:space-around;
@@ -46,25 +62,36 @@ width: 300px; height: 420px;
 
 .ContenedoresProductos {text-align: center;}
 
-.CardPrecio {background-color: yellow;}
+.CardPrecio {color: blue;
+  font-size: medium;
+  background-color: yellow;}
 
 .card2 {width: 300px; height: 420px;
-  background-color: #FFFFFF;
-}
+  background-color: #FFFFFF;}
 
 .card3 {width: 300px; height: 420px;
-  background-color: #FFFFFF;
-}
+  background-color: #FFFFFF;}
 
 .card4 {width: 300px; height: 420px;
-  background-color: #FFFFFF;
-}
+  background-color: #FFFFFF;}
+
 .card5 {width: 300px; height: 420px;
-  background-color: #FFFFFF;
-}
+  background-color: #FFFFFF;}
+
 .card6  {width: 300px; height: 420px;
   background-color: #FFFFFF;
 }
 .card7  {width: 300px; height: 420px;
   background-color: #FFFFFF;
 }
+.card8 {width: 300px; height: 420px;
+  background-color: #FFFFFF;
+}
+.card9 {width: 300px; height: 420px;
+  background-color: #FFFFFF;}
+.card10 {width: 300px; height: 420px;
+    background-color: #FFFFFF;}
+.card11    {width: 300px; height: 420px;
+    background-color: #FFFFFF;}
+.card12  {width: 300px; height: 420px;
+    background-color: #FFFFFF;} 
