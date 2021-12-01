@@ -1,0 +1,85 @@
+body {
+  background-color: #50FB04 ;}
+  .buscador {}
+.titulo {text-align: center;}
+.subtitulo {text-align: center;}
+.descripcion {text-align: center;}
+
+.logo img
+  {  width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    position: center;
+    display: block;
+    margin: auto;}
+
+
+.subtitulo {text-align: center;
+  background-color: #FBFE0B ;
+          font-size: large;     }
+
+.fotoinicio img {width: 100%;
+  display: flex;
+  align-content: flex-start;}
+
+.descripcion {text-align: center;
+        background-color: #FBFE0B ;
+          font-size: xx-large;     }
+
+.somos {text-align: center;
+  background-color: #FFFFFF ;
+       font-size: x-large; }
+
+.envio      {text-align: center;
+       font-size: x-large; }
+
+.ContenedoresBotones {display: flex;
+  justify-content:space-around;
+  text-align: center;
+}
+.boton1 button {cursor: pointer;}
+
+.boton2 button {cursor: pointer;}
+
+.boton3 button {cursor: pointer;}
+
+.boton4 button {cursor: pointer;}
+
+
+
+#productos {width: 100%}
+
+.CardPrecio {color: blue;
+  text-align: center;
+  font-size: medium;
+  background-color: yellow;}
+
+.card2 {width: 100%;
+  background-color: #FFFFFF;}
+
+.card3 {width: 100%;
+  background-color: #FFFFFF;}
+
+.card4 {width: 100%;
+  background-color: #FFFFFF;}
+
+.card5 {width: 100%;
+  background-color: #FFFFFF;}
+
+.card6  {width: 100%;
+  background-color: #FFFFFF;
+}
+.card7  {width: 100%;
+  background-color: #FFFFFF;
+}
+.card8 {width: 100%;
+  background-color: #FFFFFF;
+}
+.card9 {width: 100%;
+  background-color: #FFFFFF;}
+.card10 {width: 100%;
+    background-color: #FFFFFF;}
+.card11    {width: 100%;
+    background-color: #FFFFFF;}
+.card12  {width: 100%;
+    background-color: #FFFFFF;}
