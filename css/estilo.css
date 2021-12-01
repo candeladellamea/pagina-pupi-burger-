@@ -1,7 +1,70 @@
 body {
   background-color: #50FB04 ;}
-  .buscador {position: center;
-  display: flex;
-justify-content: center;}
+  .buscador {}
 .titulo {text-align: center;}
 .subtitulo {text-align: center;}
+.descripcion {text-align: center;}
+
+.logo img
+  {  width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    position: center;
+    display: block;
+    margin: auto;}
+
+.ImagenesInicio {display: flex;
+  justify-content: space-between;
+align-content: flex-start;}
+.ImagenesInicio img {width: 650px ; height: 500px ;}
+
+.ContenedoresBotones {display: flex;
+  justify-content:space-around;
+  text-align: center;
+}
+.boton1 button {cursor: pointer;}
+
+.boton2 button {cursor: pointer;}
+
+.boton3 button {cursor: pointer;}
+
+.boton4 button {cursor: pointer;}
+
+
+
+#productos {display: flex;
+  text-align: left;}
+
+.ContenedoresProductos {display: flex;
+  justify-content: space-between;
+align-content: flex-start;
+width: 300px; height: 420px;
+  background-color: #FFFFFF;
+  }
+
+.ContenedoresProductos img {width: 17rem; height: 17rem;}
+
+.ContenedoresProductos {text-align: center;}
+
+.CardPrecio {background-color: yellow;}
+
+.card2 {width: 300px; height: 420px;
+  background-color: #FFFFFF;
+}
+
+.card3 {width: 300px; height: 420px;
+  background-color: #FFFFFF;
+}
+
+.card4 {width: 300px; height: 420px;
+  background-color: #FFFFFF;
+}
+.card5 {width: 300px; height: 420px;
+  background-color: #FFFFFF;
+}
+.card6  {width: 300px; height: 420px;
+  background-color: #FFFFFF;
+}
+.card7  {width: 300px; height: 420px;
+  background-color: #FFFFFF;
+}
