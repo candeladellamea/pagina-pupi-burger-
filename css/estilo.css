@@ -1,32 +1,45 @@
 body {
-  background-color: #50FB04 ;}
-  .buscador {}
+  background-color:  #C1E383  ;}
+  .buscador {display: flex;
+    justify-content: center;}
 .titulo {text-align: center;}
-.subtitulo {text-align: center;}
 .descripcion {text-align: center;}
 
-.logo img
-  {  width: 250px;
+.logo img {
+  width: 250px;
     height: 250px;
-    border-radius: 50%;
+    border-radius: 30%;
     position: center;
     display: block;
-    margin: auto;}
+    margin: auto;
+}
 
 
 .subtitulo {text-align: center;
   background-color: #FBFE0B ;
           font-size: large;     }
 
-.fotoinicio img {width: 100%;
-  display: flex;
-  align-content: flex-start;}
+
+.foto1  img {width: 100%;
+  justify-content: space-between;
+align-content: flex-start;}
+
+
+
+
+
+
+
 
 .descripcion {text-align: center;
-        background-color: #FBFE0B ;
+        background-color: #EDF399 ;
           font-size: xx-large;     }
 
 .somos {text-align: center;
+  background-color: #FFFFFF ;
+       font-size: x-large; }
+
+.envio   {text-align: center;
   background-color: #FFFFFF ;
        font-size: x-large; }
 
